@@ -1,3 +1,2 @@
-# One_Shot_Learning
+## Still not completed ##
 
-## Please refer the document attached to this repo
