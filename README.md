@@ -1,3 +1,3 @@
-## A sipmle model to detect face for capturing the presence
+## A simple model to detect face for capturing the presence
 
 
